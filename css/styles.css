@@ -1,0 +1,11 @@
+/* define any style rules you need here */
+#tiles {
+    padding-bottom: 50px;
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.tile-div {
+    padding: 0;
+}
